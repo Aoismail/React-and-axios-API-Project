@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/aoismail/Project2/static/css/main.a5cdfa97.chunk.css",
+    "main.js": "/aoismail/Project2/static/js/main.c4d109ae.chunk.js",
+    "main.js.map": "/aoismail/Project2/static/js/main.c4d109ae.chunk.js.map",
+    "runtime-main.js": "/aoismail/Project2/static/js/runtime-main.6995aa24.js",
+    "runtime-main.js.map": "/aoismail/Project2/static/js/runtime-main.6995aa24.js.map",
+    "static/css/2.1f208231.chunk.css": "/aoismail/Project2/static/css/2.1f208231.chunk.css",
+    "static/js/2.cd844843.chunk.js": "/aoismail/Project2/static/js/2.cd844843.chunk.js",
+    "static/js/2.cd844843.chunk.js.map": "/aoismail/Project2/static/js/2.cd844843.chunk.js.map",
+    "static/js/3.e07cc6ba.chunk.js": "/aoismail/Project2/static/js/3.e07cc6ba.chunk.js",
+    "static/js/3.e07cc6ba.chunk.js.map": "/aoismail/Project2/static/js/3.e07cc6ba.chunk.js.map",
+    "index.html": "/aoismail/Project2/index.html",
+    "static/css/2.1f208231.chunk.css.map": "/aoismail/Project2/static/css/2.1f208231.chunk.css.map",
+    "static/css/main.a5cdfa97.chunk.css.map": "/aoismail/Project2/static/css/main.a5cdfa97.chunk.css.map",
+    "static/js/2.cd844843.chunk.js.LICENSE.txt": "/aoismail/Project2/static/js/2.cd844843.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6995aa24.js",
+    "static/css/2.1f208231.chunk.css",
+    "static/js/2.cd844843.chunk.js",
+    "static/css/main.a5cdfa97.chunk.css",
+    "static/js/main.c4d109ae.chunk.js"
+  ]
+}
